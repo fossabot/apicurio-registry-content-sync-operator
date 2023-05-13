@@ -1,4 +1,6 @@
 # apicurio-registry-content-sync-operator
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdweber019%2Fapicurio-registry-content-sync-operator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdweber019%2Fapicurio-registry-content-sync-operator?ref=badge_shield)
+
 
 A Kubernetes Operator that allows to manage the lifecycle of Artifacts in [Apicurio Registry](https://www.apicur.io/registry/).
 
@@ -19,3 +21,6 @@ The `simple` manifests folder is the only one that works out of the box, the `st
 ```
 kubectl apply -f deploy/simple
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdweber019%2Fapicurio-registry-content-sync-operator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdweber019%2Fapicurio-registry-content-sync-operator?ref=badge_large)
